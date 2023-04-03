@@ -1,0 +1,25 @@
+{
+  "name": "com.lmirman.prefabpainter",
+  "version": "1.0.0",
+  "displayName": "Prefab Painter",
+  "description": "A Unity editor tool that allows for quick placement and erasure of project prefabs in 2D and 3D game scenes.",
+  "hideInEditor": true,
+  "keywords": [
+    "2d",
+	"3d",
+	"design",
+	"editor",
+	"graybox",
+	"greybox",
+	"level",
+	"prototype",
+	"tool"
+  ],
+  "author": {
+    "name": "Luke Mirman",
+    "url": "http://lukemirman.com/"
+  },
+  "dependencies": {
+
+  }
+}
