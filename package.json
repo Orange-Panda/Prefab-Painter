@@ -1,6 +1,6 @@
 {
   "name": "com.lmirman.prefabpainter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "Prefab Painter",
   "description": "A Unity editor tool that allows for quick placement and erasure of project prefabs in 2D and 3D game scenes.",
   "hideInEditor": true,
